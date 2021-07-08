@@ -1,0 +1,114 @@
+,index,Alone?,Confidence,Gender,Bag Size,Age group,Time of the Day
+0,0,Alone,95,F,Medium,Old,Morning
+1,1,Alone,90,F,Large,Middle Aged,Morning
+2,2,Alone,95,M,Small,Old,Morning
+3,3,Alone,95,M,Large,Middle Aged,Morning
+4,4,Alone,90,F,Medium,Middle Aged,Morning
+5,5,Alone,95,F,Very Large,Middle Aged,Morning
+6,6,Alone,95,F,Large,Middle Aged,Morning
+7,7,Alone,99,M,Medium,Young,Morning
+8,8,Alone,95,F,Medium,Middle Aged,Morning
+9,9,Alone,95,F,Small,Old,Morning
+10,10,Alone,99,F,Medium,Middle Aged,Morning
+11,11,Alone,95,M,Small,Middle Aged,Morning
+12,12,Alone,99,F,Small,Middle Aged,Morning
+13,13,Alone,95,F,Small,Old,Morning
+14,14,Alone,95,F,Medium,Old,Morning
+15,15,Alone,90,F,Small,Middle Aged,Morning
+16,16,Not alone,90,F,Large,Middle Aged,Morning
+17,17,Not alone,90,F,Large,Middle Aged,Morning
+18,18,Not alone,90,M,Large,Old,Morning
+19,19,Alone,90,F,Small,Middle Aged,Morning
+20,20,Alone,90,M,Medium,Young,Morning
+21,21,Alone,90,F,Small,Middle Aged,Morning
+22,22,Alone,90,F,Small,Middle Aged,Morning
+23,23,Alone,95,M,Large,Old,Morning
+24,24,Not alone,90,F,Large,Middle Aged,Morning
+25,25,Not alone,90,F,Large,Middle Aged,Morning
+26,26,Alone,95,F,Large,Middle Aged,Morning
+27,27,Alone,90,M,Medium,Middle Aged,Morning
+28,28,Alone,90,F,Large,Middle Aged,Morning
+29,29,Alone,95,F,Small,Middle Aged,Morning
+30,30,Not alone,90,M,Medium,Middle Aged,Morning
+31,31,Not alone,90,F,Medium,Middle Aged,Morning
+32,32,Alone,95,F,Small,Young,Morning
+33,33,Alone,90,M,Small,Old,Morning
+34,34,Alone,90,F,Small,Middle Aged,Morning
+35,35,Alone,95,F,Medium,Middle Aged,Morning
+36,36,Alone,90,M,Small,Middle Aged,Morning
+37,37,Alone,90,F,Small,Old,Morning
+38,38,Alone,90,F,Medium,Middle Aged,Morning
+39,39,Alone,95,F,Medium,Middle Aged,Morning
+40,40,Alone,95,F,Small,Middle Aged,Morning
+41,41,Alone,90,F,Small,Middle Aged,Morning
+42,42,Alone,90,F,Medium,Middle Aged,Morning
+43,43,Alone,80,M,Large,Middle Aged,Morning
+44,44,Alone,90,F,Medium,Middle Aged,Morning
+45,45,Not alone,90,M,Small,Middle Aged,Morning
+46,46,Not alone,90,F,Small,Middle Aged,Morning
+47,47,Alone,85,F,Very Large,Middle Aged,Morning
+48,48,Not alone,90,F,Medium,Old,Morning
+49,49,Not alone,90,M,Medium,Old,Morning
+50,50,Alone,85,M,Medium,Middle Aged,Afternoon
+51,51,Alone,90,M,Large,Young,Afternoon
+52,52,Alone,95,M,Small,Young,Afternoon
+53,53,Alone,90,M,Medium,Middle Aged,Afternoon
+54,54,Alone,90,F,Small,Middle Aged,Afternoon
+55,55,Alone,85,M,Medium,Middle Aged,Afternoon
+56,56,Not alone,90,F,Small,Old,Afternoon
+57,57,Not alone,90,M,Small,Young,Afternoon
+58,58,Alone,90,F,Small,Middle Aged,Afternoon
+59,59,Alone,90,F,Small,Young,Afternoon
+60,60,Alone,90,F,Small,Young,Afternoon
+61,61,Alone,95,F,Small,Young,Afternoon
+62,62,Alone,90,M,Medium,Old,Afternoon
+63,63,Alone,90,F,Small,Middle Aged,Afternoon
+64,64,Alone,90,M,Medium,Old,Afternoon
+65,65,Alone,80,F,Medium,Old,Afternoon
+66,66,Not alone,90,M,Small,Middle Aged,Afternoon
+67,67,Not alone,90,M,Small,Middle Aged,Afternoon
+68,68,Alone,90,F,Very Large,Old,Afternoon
+69,69,Alone,90,F,Medium,Middle Aged,Afternoon
+70,70,Not alone,90,M,Very Large,Middle Aged,Afternoon
+71,71,Not alone,90,M,Very Large,Young,Afternoon
+72,72,Alone,90,F,Large,Middle Aged,Afternoon
+73,73,Alone,95,F,Large,Middle Aged,Afternoon
+74,74,Alone,90,F,Medium,Middle Aged,Afternoon
+75,75,Not alone,90,F,Small,Middle Aged,Afternoon
+76,76,Not alone,80,F,Small,Young,Afternoon
+77,77,Not alone,80,M,Small,Young,Afternoon
+78,78,Alone,90,F,Large,Middle Aged,Afternoon
+79,79,Alone,95,M,Small,Middle Aged,Afternoon
+80,80,Alone,90,F,Very Large,Middle Aged,Afternoon
+81,81,Not alone,90,M,Large,Middle Aged,Afternoon
+82,82,Not alone,90,F,Large,Middle Aged,Afternoon
+83,83,Alone,90,M,Medium,Old,Afternoon
+84,84,Alone,95,M,Small,Middle Aged,Afternoon
+85,85,Alone,90,F,Medium,Middle Aged,Night
+86,86,Alone,90,F,Medium,Middle Aged,Night
+87,87,Alone,99,M,Small,Young,Night
+88,88,Not alone,90,M,Large,Middle Aged,Night
+89,89,Not alone,90,F,Large,Middle Aged,Night
+90,90,Alone,90,F,Large,Middle Aged,Night
+91,91,Alone,95,M,Medium,Middle Aged,Night
+92,92,Alone,90,F,Small,Young,Night
+93,93,Alone,90,M,Medium,Middle Aged,Night
+94,94,Alone,95,F,Large,Old,Night
+95,95,Alone,95,M,Large,Middle Aged,Night
+96,96,Alone,90,M,Medium,Middle Aged,Night
+97,97,Alone,90,F,Large,Middle Aged,Night
+98,98,Alone,90,M,Large,Middle Aged,Night
+99,99,Alone,95,F,Large,Middle Aged,Night
+100,100,Not alone,90,M,Small,Young,Night
+101,101,Not alone,90,F,Medium,Young,Night
+102,102,Alone,90,F,Medium,Middle Aged,Night
+103,103,Not alone,90,M,Medium,Young,Night
+104,104,Not alone,90,F,Medium,Middle Aged,Night
+105,105,Not alone,90,F,Medium,Young,Night
+106,106,Alone,95,F,Large,Middle Aged,Night
+107,107,Alone,90,F,Small,Young,Night
+108,108,Not alone,90,M,Small,Middle Aged,Night
+109,109,Not alone,90,F,Small,Young,Night
+110,110,Alone,95,M,Small,Young,Night
+111,111,Alone,90,M,Medium,Old,Night
+112,112,Alone,90,F,Medium,Young,Night
