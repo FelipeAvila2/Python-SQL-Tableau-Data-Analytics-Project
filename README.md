@@ -1,5 +1,5 @@
 # Data Analytics Project
-Project for developing a product that helps older folks to buy groceries.
+Project part of the Ironhack Data Analytics Bootcamp. Goal was developing a product that helps older folks to buy groceries. It was done throw data gathering, data cleaning and modeling, statistical probablistic analysis and data visualization.
 
 ## Overview
 
